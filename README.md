@@ -1,2 +1,89 @@
-# ERP-showcase
-A web-based ERP solution for managing inventory, quotations, delivery notes, invoicing, accounts, and business operations.
+# Forever ERP — Enterprise Resource Planning System
+
+**A web-based ERP application for managing business operations, inventory, transactions, and financial workflows.**
+
+🌐 **Live Application:** https://forever.apptoryx.com/
+
+**Project Type:** Full-Stack Web Application  
+**Role:** Application Development  
+**Status:** Hosted Application
+
+---
+
+## Project Overview
+
+Forever ERP is a web-based business management application designed to centralize daily operational activities and streamline administrative processes.
+
+The application brings together inventory management, customer and supplier records, quotations, delivery notes, invoicing, and financial reporting within a unified interface.
+
+## Key Features
+
+### Inventory Management
+- Inventory item management and stock tracking
+- Stock availability monitoring
+- Inventory reporting
+
+### Customer and Supplier Management
+- Customer and supplier record management
+- Centralized business information
+
+### Sales and Transaction Management
+- Quotation preparation and management
+- Delivery note creation and return tracking
+- Invoice generation and transaction records
+- Cross-hiring workflows
+
+### Accounts and Reporting
+- Account transaction management
+- Petty cash management
+- Business reports and dashboard summaries
+- PDF and Excel reporting functionality
+
+### Administration
+- User management
+- Role-based menu access
+- Administrative configuration
+
+## Technology Stack
+
+| Layer | Technology |
+|---|---|
+| Frontend | HTML, CSS, JavaScript |
+| Backend | Node.js |
+| Database | MySQL |
+| Architecture | Web-based client-server application |
+| Deployment | Hosted web application |
+
+## Application Screenshots
+
+Screenshots of the application's main dashboard and selected modules will be added here using demonstration data.
+
+## Skills Demonstrated
+
+- Full-stack web application development
+- Database-driven application design
+- Business workflow implementation
+- CRUD operations
+- User access management
+- Reporting and document generation
+- Application deployment and maintenance
+
+## Live Application
+
+**Website:** https://forever.apptoryx.com/
+
+The live application may require authorized login credentials.
+
+## Source Code Availability
+
+This repository is a **public project showcase only**.
+
+The application source code, database structure, credentials, and internal configuration files are not included.
+
+The project is presented for portfolio and professional demonstration purposes.
+
+---
+
+**Developed by Saraswathi Poornachandran**
+
+[GitHub Profile](https://github.com/saraswathipoornachandran) | [Developer Portfolio](https://portfolio.apptoryx.com/)
