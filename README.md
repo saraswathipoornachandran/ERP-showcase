@@ -56,7 +56,29 @@ The application brings together inventory management, customer and supplier reco
 
 ## Application Screenshots
 
-Screenshots of the application's main dashboard and selected modules will be added here using demonstration data.
+
+## Application Screenshots
+
+The following screenshots demonstrate the Forever ERP user interface.
+
+### Screenshot 1
+![Forever ERP Screenshot 1](screenshots/download%20%283%29.png)
+
+### Screenshot 2
+![Forever ERP Screenshot 2](screenshots/download%20%284%29.png)
+
+### Screenshot 3
+![Forever ERP Screenshot 3](screenshots/download%20%285%29.png)
+
+### Screenshot 4
+![Forever ERP Screenshot 4](screenshots/download%20%286%29.png)
+
+### Screenshot 5
+![Forever ERP Screenshot 5](screenshots/download%20%287%29.png)
+
+### Screenshot 6
+![Forever ERP Screenshot 6](screenshots/download%20%288%29.png)
+
 
 ## Skills Demonstrated
 
