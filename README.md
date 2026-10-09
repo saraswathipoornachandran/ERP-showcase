@@ -56,9 +56,6 @@ The application brings together inventory management, customer and supplier reco
 
 ## Application Screenshots
 
-
-## Application Screenshots
-
 The following screenshots demonstrate the Forever ERP user interface.
 
 ### Screenshot 1
